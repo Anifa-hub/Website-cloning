@@ -22,7 +22,7 @@
 #btn1{
     position: absolute;
     left: 546px;
-    top: 29px;
+    top: 19px;
     border-radius: 20px  ;
     border-color:#FFFFFF;
 }
@@ -35,7 +35,7 @@
     position: absolute;
     left:-734px;
     height: 545px;
-    width: 1394px;
+    width: 1364px;
     top: 63px;
     
 }
@@ -117,4 +117,214 @@
     left: 12px;
     width: 33px;
     top: 2px;
+}
+#div3{
+    position: absolute;
+    background-color: #191E3B;
+    color: white;
+    width: 1134px;
+    top: 634px; 
+    left: -585px;
+    border-radius: 10px;
+}
+#subdiv{
+    position: absolute;
+
+    background-color: aquamarine;
+    border-radius: 240px;
+}
+#sms{
+    position:absolute;
+    top: 14px;
+    left: 12px;
+    height: 34px;
+}
+#p2{
+    margin-left: 63px;
+}
+
+#btn6{
+    
+    position: absolute;
+    left: 1034px;
+    background-color:#191E3B ;
+    color: white;
+    border: none;
+     top:34px  
+     
+}
+
+#Kigali{
+    height: 184px;
+    width: 263px;
+    border-radius: 20px;
+
+}
+#Paris{
+    height: 184px;
+    width: 263px;
+    border-radius: 20px;
+}
+#nairob{
+    height: 184px;
+    width: 263px;
+    border-radius: 20px;
+}
+#dubai{
+    height: 184px;
+    width: 263px;
+    border-radius: 20px;
+}
+#gisenyi{
+    height: 184px;
+    width: 263px;
+    border-radius: 20px;
+}
+#ftr1{
+    position: absolute;
+    top: 144px;
+    height: 44px;
+    border-radius:0px 0px 20px 20px ;
+    width: 240px;
+    background-color: white;
+    padding-left: 23px;
+    padding-top: 20PX;
+}
+#ftr2{
+    position: absolute;
+    top: 144px;
+    height: 44px;
+    border-radius:0px 0px 20px 20px ;
+    width: 240px;;
+    background-color: white;
+    padding-left: 23px;
+    padding-top: 20PX;
+    left: 286px;
+}
+#ftr3{
+    position: absolute;
+    top: 144px;
+    height: 44px;
+    border-radius:0px 0px 20px 20px ;
+    width: 240px;;
+    background-color: white;
+    padding-left: 23px;
+    padding-top: 20PX;
+    left: 572px;
+}
+#ftr4{
+    position: absolute;
+    top: 144px;
+    height: 44px;
+    border-radius:0px 0px 20px 20px ;
+    width: 240px;
+    background-color:white;
+    padding-left: 23px;
+    padding-top: 20PX;
+    left: 858px;
+}
+#ftr5{
+    position: absolute;
+    top: 144px;
+    height: 44px;
+    border-radius:0px 0px 20px 20px ;
+    width: 240px;
+    background-color:white;
+    padding-left: 23px;
+    padding-top: 20PX;
+    left: 1144px;
+}
+#div4{
+
+    position: absolute;
+    top: 834px;
+    display: flex;
+    gap: 23px;
+    left: 109px;
+    
+}
+#p3{
+    position: absolute;
+    font-size: 34px;
+    top: 739px;
+    left: 109px;
+}
+#p4{
+    position: absolute;
+    font-size: 34px;
+    top: 1039px;
+    left: 109px;
+}
+#div5{
+
+    position: absolute;
+    top: 1134px;
+    display: flex;
+    gap: 23px;
+    left: 109px;
+    
+}
+#fern{
+    border-radius: 20px;
+    height: 323px;
+    width: 292px;
+}
+#house{
+    border-radius: 20px;
+}
+#fen{
+    border-radius: 20px;
+}
+#chalet{
+    border-radius: 20px;
+}
+#feny{
+    border-radius: 20px;
+    width: 292px;
+}
+#p5{
+    position: absolute;
+    top: 274px;
+    left: 23px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: robot;
+
+}
+#p6{
+    position: absolute;
+    top: 274px;
+    left: 333px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: robot;
+}
+#p7{
+    position: absolute;
+    top: 274px;
+    left: 653px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: robot;
+}
+#p8{
+    position: absolute;
+    top: 274px;
+    left: 953px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: robot;
+}
+#p9{
+    position: absolute;
+    top: 274px;
+    left: 1223px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: robot;
 }
