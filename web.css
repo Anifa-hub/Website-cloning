@@ -1000,7 +1000,11 @@
    }
    #p90{
     margin-top: -73px;
-    font-size: 15px;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 23px;
     margin-left: 43px;
     color: #191E3B;
+    border-top: 1px solid #DFE0E4;
+    width: 90%;
    }
