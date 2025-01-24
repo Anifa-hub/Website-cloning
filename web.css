@@ -628,3 +628,149 @@
     font-weight: bold;
     color: #191E3B;
 }
+.trip{
+    /* position: absolute;
+    top: 2794px;
+    left: 109px */
+    padding-top: 2856px;
+    
+}
+.hs8{
+    border-radius: 20px;
+    width: 275px;
+}
+.d10{
+    background-color: green;
+    width: 29px;
+    height: 29px;
+     padding-left: 3px; 
+     /* padding-top: ; */
+     border-radius: 10px;
+     margin-left: 13px;
+     margin-top: 13px;
+     color: white;
+}
+.trip-1{
+    display: flex;
+    gap: 12px;
+}
+#a10{
+    text-align: center;
+    margin-top: -1px;
+}
+.h4{
+    color: #191E3B;
+    margin-top: -12px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 19px;
+}
+.p39{
+    margin-top: -12px;
+    margin-left: 15px;
+    color: #191E3B;
+    
+}
+.p40{
+    margin-left: 15px; 
+    font-weight: bold;
+    font-size: 19px; 
+    color: #191E3B;
+}
+.p41{
+    margin-top: -12px;
+    margin-left: 15px;
+    color: #191E3B;
+}
+#div9{
+    display: flex;
+    gap: 34px;
+    padding-left: 107px;
+}
+.hs9{
+    border-radius: 20px;
+    width: 329px;
+}
+.hs10{
+    border-radius: 20px;
+    width: 295px; 
+}
+.hs11{
+    border-radius: 20px;
+    width: 275px;
+}
+#div10{
+    display: flex;
+    gap: 34px;
+    padding-left: 107px;
+}
+#div10{
+    padding-top: -234px;
+    display: flex;
+}
+#man{
+    height: 323px;
+    border-radius: 20px;
+}
+#pool{
+    height: 323px;
+    width: 243px;
+    border-radius: 20px; 
+}
+#land{
+    height: 323px;
+    width: 243px;
+    border-radius: 20px; 
+}
+#p43{
+ position: absolute;
+ top: 3624px;
+ left: 503px;
+ color: white;
+}
+#p44{
+    position: absolute;
+    top: 3624px;
+    left: 779px;
+    color: white;
+    font-weight: bolder;
+   }
+   #p45{
+    position: absolute;
+    top: 3624px;
+    left: 1329px;
+    color: white;
+    font-weight: bolder;
+   }
+   #p45{
+    position: absolute;
+    top: 3624px;
+    left: 1029px;
+    color: white;
+    font-weight: bolder;
+   }
+   #p46{
+    position: absolute;
+    top: 3604px;
+    left: 1309px;
+    color: white;
+    font-weight: bolder;
+   }
+   #head3{
+    color: #191E3B;
+    font-size: 33px;
+   }
+   #p42{
+        width: 312px;
+        font-size: 18px;
+   }
+   #div10{
+    background-color:hsl(190, 23%, 95%);
+    width: 1434px;
+    font-weight: bolder;
+    padding-left: 33px;
+    margin-left: 107px;
+    border-radius: 30px;
+    height: 373px;
+    padding-top: 34px;
+   }
