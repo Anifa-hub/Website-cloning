@@ -1,3 +1,120 @@
-#id1{
-    font-size: 134px;
+#h1{
+    position: absolute;
+    left: 64px;
+    top: 3px;
+    font-family: Robot;
+    color: #0067DB;
+    
+}
+#nav{
+    position: absolute;
+    left: 694px;
+    top:13px
+  
+}
+#list1{
+    display: flex;
+    gap: 34px;
+    list-style: none;
+    font-weight: bold;
+    color: #191E3B;
+}
+#btn1{
+    position: absolute;
+    left: 546px;
+    top: 29px;
+    border-radius: 20px  ;
+    border-color:#FFFFFF;
+}
+#icon1{
+    
+    left: 9px;
+    width: 23px;
+}
+#image1{
+    position: absolute;
+    left:-734px;
+    height: 545px;
+    width: 1394px;
+    top: 63px;
+    
+}
+#p1{
+    position: absolute;
+    top: 245px;
+    left: -504px;
+    font-size: 33px;
+    font-weight: bolder;
+    color: white;
+}
+#div2{
+    position: sticky;
+    margin-left: -534px;
+    margin-top: 304px;
+    border-radius: 20px;
+    background-color: white;
+    height: 64px;
+    width: 1053px;
+}
+#btn5{
+    
+    position: absolute;
+    left: 954px;
+    width: 74px;
+    height: 43px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #191E3B;
+    color: white;
+    top:10px   
+     
+    
+    
+
+}
+#btn4{
+    position: absolute;
+    left: 644px;
+    width: 294px;
+    height: 43px;
+    border-radius: 10px 10px 10px 10px;
+    border-color:rgb(219, 214, 214);
+    padding-right: 63px;
+    top:10px 
+}
+#icon4{
+    position: absolute;
+    left: 14px;
+    width: 33px;
+}
+ 
+#btn3{
+    position: absolute;
+    left: 324px;
+    width: 294px;
+    height: 43px;
+    border-radius: 10px 10px 10px 10px;
+    border-color:rgb(219, 214, 214);
+    padding-right: 63px;
+    top:10px
+}
+#icon3{
+    position: absolute;
+    left: 14px;
+    width: 33px;
+}
+#btn2{
+    position: absolute;
+    left: 14px;
+    width: 294px;
+    height: 43px;
+    border-radius: 10px 10px 10px 10px;
+    border-color:rgb(247, 243, 243);
+    padding-right: 63px;
+    top:10px
+}
+#icon2{
+    position: absolute;
+    left: 12px;
+    width: 33px;
+    top: 2px;
 }
