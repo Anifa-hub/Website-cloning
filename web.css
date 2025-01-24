@@ -49,6 +49,7 @@
 }
 #div2{
     position: sticky;
+    top: 0px;
     margin-left: -534px;
     margin-top: 304px;
     border-radius: 20px;
@@ -128,19 +129,22 @@
     border-radius: 10px;
 }
 #subdiv{
-    position: absolute;
-
+    /* position: absolute; */
     background-color: aquamarine;
+    width: 43px;
+    height: 43px;
+    margin-top: 12px;
     border-radius: 240px;
 }
 #sms{
     position:absolute;
     top: 14px;
-    left: 12px;
+    left: 1px;
     height: 34px;
 }
 #p2{
     margin-left: 63px;
+    margin-top: -29px;
 }
 
 #btn6{
@@ -186,7 +190,7 @@
     height: 44px;
     border-radius:0px 0px 20px 20px ;
     width: 240px;
-    background-color: white;
+    background-color: rgb(250, 244, 244);
     padding-left: 23px;
     padding-top: 20PX;
 }
@@ -196,7 +200,7 @@
     height: 44px;
     border-radius:0px 0px 20px 20px ;
     width: 240px;;
-    background-color: white;
+    background-color: rgb(250, 244, 244);
     padding-left: 23px;
     padding-top: 20PX;
     left: 286px;
@@ -207,7 +211,7 @@
     height: 44px;
     border-radius:0px 0px 20px 20px ;
     width: 240px;;
-    background-color: white;
+    background-color: rgb(250, 244, 244);
     padding-left: 23px;
     padding-top: 20PX;
     left: 572px;
@@ -218,7 +222,7 @@
     height: 44px;
     border-radius:0px 0px 20px 20px ;
     width: 240px;
-    background-color:white;
+    background-color:rgb(250, 244, 244);
     padding-left: 23px;
     padding-top: 20PX;
     left: 858px;
@@ -592,7 +596,9 @@
     position: absolute;
     display: flex;
     top: 2094px;
+    gap: 12px;
     left: 109px
+    
 }
 #hs6{
     height: 453px;
